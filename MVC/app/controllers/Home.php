@@ -22,7 +22,7 @@
             // $arr['au_birthyear'] = 1987;
 
             // $author->insert($arr);
-KIMBERLY MAE DAYUJA
+            
             //update
             // $arr['au_fname'] = 'Johnny';
             // // $arr['au_lname'] = 'Brent';
